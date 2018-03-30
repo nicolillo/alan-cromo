@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "blblblblb",
+"dataUrl": "alancromo space.data.unityweb",
+"asmCodeUrl": "alancromo space.asm.code.unityweb",
+"asmMemoryUrl": "alancromo space.asm.memory.unityweb",
+"asmFrameworkUrl": "alancromo space.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
